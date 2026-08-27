@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="container">
       <div className="card">
-        <h1>🚀 DevOps Task Manager</h1>
+        <h1>🚀 check CDCI Task Manager</h1>
 
         <p className="subtitle">
           ReactJS Application deployed using GitHub CI/CD
